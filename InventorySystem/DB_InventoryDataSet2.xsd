@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DB_InventoryDataSet2" targetNamespace="http://tempuri.org/DB_InventoryDataSet2.xsd" xmlns:mstns="http://tempuri.org/DB_InventoryDataSet2.xsd" xmlns="http://tempuri.org/DB_InventoryDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="DB_InventoryConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DB_InventoryConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.InventorySystem.My.MySettings.GlobalReference.Default.DB_InventoryConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TB_CategoryTableAdapter" GeneratorDataComponentClassName="TB_CategoryTableAdapter" Name="TB_Category" UserDataComponentName="TB_CategoryTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DB_InventoryConnectionString (MySettings)" DbObjectName="DB_Inventory.dbo.TB_Category" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT [Category Name] FROM dbo.TB_Category</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Category Name" DataSetColumn="Category Name" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DB_InventoryDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DB_InventoryDataSet2" msprop:Generator_UserDSName="DB_InventoryDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TB_Category" msprop:Generator_TableClassName="TB_CategoryDataTable" msprop:Generator_TableVarName="tableTB_Category" msprop:Generator_TablePropName="TB_Category" msprop:Generator_RowDeletingName="TB_CategoryRowDeleting" msprop:Generator_RowChangingName="TB_CategoryRowChanging" msprop:Generator_RowEvHandlerName="TB_CategoryRowChangeEventHandler" msprop:Generator_RowDeletedName="TB_CategoryRowDeleted" msprop:Generator_UserTableName="TB_Category" msprop:Generator_RowChangedName="TB_CategoryRowChanged" msprop:Generator_RowEvArgName="TB_CategoryRowChangeEvent" msprop:Generator_RowClassName="TB_CategoryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Category_x0020_Name" msprop:Generator_ColumnVarNameInTable="columnCategory_Name" msprop:Generator_ColumnPropNameInRow="Category_Name" msprop:Generator_ColumnPropNameInTable="Category_NameColumn" msprop:Generator_UserColumnName="Category Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

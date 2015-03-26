@@ -1,0 +1,14 @@
+c:\users\joshii\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+c:\users\joshii\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Login.resources
+c:\users\joshii\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Resources.resources
+c:\users\joshii\documents\visual studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbproj.GenerateResource.Cache
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.xml
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Items.resources
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Menu.resources
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.xml
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Stocks.resources
+C:\Users\Joshii\Documents\Visual Studio 2013\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Category.resources

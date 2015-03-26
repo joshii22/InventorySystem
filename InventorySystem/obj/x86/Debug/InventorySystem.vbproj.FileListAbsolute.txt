@@ -1,0 +1,19 @@
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Resources.resources
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.vbproj.GenerateResource.Cache
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.xml
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.exe
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.xml
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.pdb
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Stocks.resources
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Query.resources
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Menu.resources
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Stock.resources
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Login.resources
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Category.resources
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.SubCategory.resources
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Search.resources
+C:\Users\Joshii\Documents\Visual Studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.vbprojResolveAssemblyReference.cache
+C:\Users\Joshii\Desktop\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
